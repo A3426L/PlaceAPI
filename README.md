@@ -1,0 +1,1 @@
+Place APIを使用
